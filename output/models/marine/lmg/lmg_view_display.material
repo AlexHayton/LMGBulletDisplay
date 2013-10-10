@@ -1,4 +1,5 @@
-shader = "shaders/Level_emissive.surface_shader"
+shader = "shaders/ViewModel_emissive.surface_shader"
 albedoMap = "materials/dev/black.dds"
 normalMap = "materials/dev/dev_normal.dds"
-emissiveMap = "lua/GUILMGDisplay.lua"
+emissiveMap = "*ammo_displayrifle"
+specularMap= "materials/dev/black.dds"
